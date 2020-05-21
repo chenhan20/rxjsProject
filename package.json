@@ -1,0 +1,22 @@
+{
+  "name": "rxjsproject",
+  "version": "1.0.0",
+  "description": "side project rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenhan20/rxjsProject.git"
+  },
+  "author": "steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenhan20/rxjsProject/issues"
+  },
+  "homepage": "https://github.com/chenhan20/rxjsProject#readme",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
